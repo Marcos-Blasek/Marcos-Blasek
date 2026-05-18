@@ -2,7 +2,7 @@
 
 🎯 Focused on AI, automation and software development.
 
-## Current Stack
+## Tech Stack
 - Python
 - APIs
 - n8n
