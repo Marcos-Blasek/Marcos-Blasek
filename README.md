@@ -1,18 +1,24 @@
 # Marcos Blasek
 
-🎯 Focused on AI, automation and software development.
+🎯 Focado em IA, automação e desenvolvimento de software.
 
 ## Tech Stack
 - Python
 - APIs
 - n8n
 - OpenAI
-- Automation
+- Automação
 
-## Current Goals
-- Learn AI automation
-- Build real-world projects
-- Enter the AI/software market
+## Foco Atual
+- Automação com IA
+- Sistemas de Workflow
+- APIs e Integrações
+- Automação de Negócios
 
-## Projects
-Coming soon...
+## Objetivos Atuais
+- Aprender automação com IA
+- Construir projetos reais
+- Entrar no mercado de IA/software
+
+## Projetos
+Em breve...
