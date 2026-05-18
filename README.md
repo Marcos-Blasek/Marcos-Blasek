@@ -1,16 +1,18 @@
-## Hi there 👋
+# Marcos Blasek
 
-<!--
-**Marcos-Blasek/Marcos-Blasek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focused on AI, automation and software development.
 
-Here are some ideas to get you started:
+## Current Stack
+- Python
+- APIs
+- n8n
+- OpenAI
+- Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Learn AI automation
+- Build real-world projects
+- Enter the AI/software market
+
+## Projects
+Coming soon...
